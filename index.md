@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+# Welcome to Ahsan Farooqui's github page. 
+# [Do check my blog](http://blog.ahsanfarooqui.xyz)
 
-You can use the [editor on GitHub](https://github.com/ahsanfarooqui/ahsanfarooqui.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Python Tutorials
+These tutorials are made for a quicker review of Python Programming language.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Lesson 1:
+[Click Here to go to lesson 1](https://github.com/ahsanfarooqui/Python-Programming-Exercise/blob/master/Python%20chapters%201%20through%2019%20.ipynb)
 
-### Markdown
+It includes following: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+| Chapter | Title                                   |
+|---------|-----------------------------------------|
+| 1       | print                                   |
+| 2       | Variables for Strings                   |
+| 3       | Variables for Numbers                   |
+| 4       | Math expressions: Familiar operators    |
+| 5       | Variable Names Legal and Illegal        |
+| 6       | Math expressions: Unfamiliar operators  |
+| 7       | Math expressions: Eliminating ambiguity |
+| 8       | Concatenating text strings              |
+| 9       | if statements                           |
+| 10      | Comparison operators                    |
+| 11      | else and elif statements                |
+| 12      | Testing sets of conditions              |
+| 13      | if statements nested                    |
+| 14      | Comments                                |
+| 15      | Lists                                   |
+| 16      | Lists: Adding and changing elements     |
+| 17      | Lists: Taking slices out of them        |
+| 18      | Lists: Deleting and removing elements   |
+| 19      | Lists: popping elements                 |
 
-# Header 1
-## Header 2
-### Header 3
+### Lesson 2:
+[Click Here to go to lesson 2](https://github.com/ahsanfarooqui/Python-Programming-Exercise/blob/master/Python%20chapters%2020%20to%2040.ipynb)
 
-- Bulleted
-- List
+It includes following: 
 
-1. Numbered
-2. List
+| Chapter | Title                                                                |
+|---------|----------------------------------------------------------------------|
+| 20      | Tuples                                                               |
+| 21      | for loops                                                            |
+| 22      | for loops nested                                                     |
+| 23      | Getting information from the user and converting strings and numbers |
+| 24      | Changing case                                                        |
+| 25      | Dictionaries: What they are                                          |
+| 26      | Dictionaries: How to code one                                        |
+| 27      | Dictionaries: How to pick information out of them                    |
+| 28      | Dictionaries: The versatility of keys and values                     |
+| 29      | Dictionaries: Adding items                                           |
+| 30      | Dictionaries: Removing and changing items                            |
+| 31      | Dictionaries: Looping through values                                 |
+| 32      | Dictionaries: Looping through keys                                   |
+| 33      | Dictionaries: Looping through key-value pairs                        |
+| 34      | Creating a list of dictionaries                                      |
+| 35      | How to pick information out of a list of dictionaries                |
+| 36      | How to append a new dictionary to a list of dictionaries             |
+| 37      | Creating a dictionary that contains lists                            |
+| 38      | How to get information out of a list within a dictionary             |
+| 39      | Creating a dictionary that contains a dictionary                     |
+| 40      | How to get information out of a dictionary within another dictionary |
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahsanfarooqui/ahsanfarooqui.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Other things are coming soon... 
