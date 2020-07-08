@@ -61,4 +61,25 @@ It includes following:
 | 39      | Creating a dictionary that contains a dictionary                     |
 | 40      | How to get information out of a dictionary within another dictionary |
 
-## Other things are coming soon... 
+### Lesson 3:
+[Click Here to go to lesson 3](https://github.com/ahsanfarooqui/Python-Programming-Exercise/blob/master/Python%20Chapters%2041%20to%2052.ipynb)
+
+It includes following: 
+
+| Chapter | Title                                                          |
+|---------|----------------------------------------------------------------|
+| 41      | Functions                                                      |
+| 42      | Functions:   Passing them information                          |
+| 43      | Functions:   Passing information to them a different way       |
+| 44      | Functions:   Assigning a default value to a parameter          |
+| 45      | Functions:   Mixing positional and keyword arguments           |
+| 46      | Functions:   Dealing with an unknown number of arguments       |
+| 47      | Functions:   Passing information back from them                |
+| 48      | Using   functions as variables (which is what they really are) |
+| 49      | Functions:   Local vs. global variables                        |
+| 50      | Functions   within functions                                   |
+| 51      | While   loops                                                  |
+| 52      | While   loops: Setting a flag                                  |
+
+
+### More on this series is coming soon...
