@@ -33,13 +33,13 @@ Majority of work done is for Urdu Language. I also contributed to [Mozilla Commo
 # Professional Work History
 ## AI Research Engineer at Knowledge Platform
 Transformed the company’s LMS product into an AI driven platform where decisions are taken by an AI engine in contrast to previous rule-based techniques. This included:
-• Currently leading a team of two research engineers to research and create new solutions based on graph neural networks, particle swarm optimization and genetic algorithms
-• Researched and supervised addition of data points to ensure we have the right data to create our product.
-• Guided the company on how AI can transform the ed-tech product. This included a series of workshops on AI, presenting case studies, cross-team coordination to educate tech as well as non-tech employees about AI.
-• Prepared SQL databases to support AI API transactions and creating Stored procedures for fetching data.
-• Implemented an evolutionary algorithm-based solution to generate well optimized diagnostic tests to test users’ performance before recommending the content.
-• Implemented a dependency graph and deep learning-based recommendation system that generates an optimum path for students to effectively grasp concepts.
-• Presented and coded the idea of Space Repetition to smartly present skills that user already interacted with to grasp the concepts effectively.
-• Searching, Setting up the virtual machines, deployment of application with Nginx, Supervisor and Flask.
-• Brainstorming and searching for the statistics, creating queries and dashboards for management reports and business decisions.• Facilitating the Quality Assurance and deployment teams to create use cases to test AIbased recommendation systems.
+* Currently leading a team of two research engineers to research and create new solutions based on graph neural networks, particle swarm optimization and genetic algorithms
+* Researched and supervised addition of data points to ensure we have the right data to create our product.
+* Guided the company on how AI can transform the ed-tech product. This included a series of workshops on AI, presenting case studies, cross-team coordination to educate tech as well as non-tech employees about AI.
+* Prepared SQL databases to support AI API transactions and creating Stored procedures for fetching data.
+* Implemented an evolutionary algorithm-based solution to generate well optimized diagnostic tests to test users’ performance before recommending the content.
+* Implemented a dependency graph and deep learning-based recommendation system that generates an optimum path for students to effectively grasp concepts.
+* Presented and coded the idea of Space Repetition to smartly present skills that user already interacted with to grasp the concepts effectively.
+* Searching, Setting up the virtual machines, deployment of application with Nginx, Supervisor and Flask.
+* Brainstorming and searching for the statistics, creating queries and dashboards for management reports and business decisions.• Facilitating the Quality Assurance and deployment teams to create use cases to test AIbased recommendation systems.
 
