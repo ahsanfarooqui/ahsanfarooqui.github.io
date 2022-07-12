@@ -1,6 +1,6 @@
 # Welcome to Ahsan Farooqui's github page. 
 
-## [Python Tutorials] (https://github.com/ahsanfarooqui/Python-Programming-Exercise/)
+[Python Tutorials] (https://github.com/ahsanfarooqui/Python-Programming-Exercise/)
 These tutorials are made for a quicker review of Python Programming language. Follow the notebook and get equipped with the basic Python Exercises. 
 
 ## Deep Learning
